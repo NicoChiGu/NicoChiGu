@@ -14,7 +14,8 @@
                 new Patcher("chuniApp.exe", "(1.35.00) AMAZON PLUS", [
                     {
                         // mon
-                        name: "Allow 127.0.0.1/localhost as the network server",
+                        name: "允许 127.0.0.1/localhost 本地服务器使用",
+                        tooltip: "你想多了没有？",
                         patches: [
                             {offset: 0x8DF380, off: [0x55, 0x8B, 0xEC], on: [0x31, 0xC0, 0xC3]},
                             {offset: 0x1693DA8, off: [0x31, 0x32, 0x37, 0x2F], on: [0x30, 0x2F, 0x38, 0x00]}
@@ -39,7 +40,7 @@
                     */
                     {
                         // somewhatlurker
-                        name: "Force shared audio mode, system audio samplerate must be 48000",
+                        name: "强制共享音频,系统音频设置必须为 48000 HZ",
                         tooltip: "Improves compatibility but may increase latency",
                         patches: [
                             {offset: 0xCA9E1A, off: [0x01], on: [0x00]},
@@ -47,14 +48,14 @@
                     },
                     {
                         // somewhatlurker
-                        name: "Force 2 channel audio output",
+                        name: "强制双声道输出",
                         patches: [
                             {offset: 0xCA9EF1, off: [0x75, 0x3F], on: [0x90, 0x90]},
                         ],
                     },
                     {
                         // maybenotuseful
-                        name: "Patch for Windows 7",
+                        name: "针对Windows7的补丁",
                         tooltip: "May not be able to connect to the server",
                         patches: [
                             {offset: 0x19ff4e8, off: [0x45, 0x78], on: [0x5F, 0x41]},
@@ -63,7 +64,7 @@
                     },
                     {
                         // lybxlpsv
-                        name: "Disable Song Select Timer",
+                        name: "关闭选歌时间",
                         tooltip: "May only work when playing with card.",
                         patches: [
                             {offset: 0x722ED2, off: [0x74], on: [0xEB]},
@@ -71,7 +72,7 @@
                     },
                     {
                         // esterTion
-                        name: "Set All Timers to 999",
+                        name: "设置所有时间为 999",
                         patches: [
                             {offset: 0x5DF750, off: [0x8B, 0x44, 0x24, 0x04, 0x69, 0xC0, 0xE8, 0x03, 0x00, 0x00], on: [0xB8, 0x58, 0x3E, 0x0F, 0x00, 0x90, 0x90, 0x90, 0x90, 0x90]},
                         ],
@@ -101,7 +102,7 @@
                     },
                     {
                         // esterTion
-                        name: "Dummy LED",
+                        name: "跳过 LED检测",
                         tooltip: "Skip LED board check",
                         patches: [
                             {offset: 0x2499C7, off: [0x00], on: [0x01]},
