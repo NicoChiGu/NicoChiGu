@@ -1,65 +1,31 @@
-#EXTM3U  
-#EXTINF:-1 ,CCTV1綜合  
-http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8  
-#EXTINF:-1 ,CCTV2財經  
-http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8  
-#EXTINF:-1 ,CCTV3綜藝  
-http://39.135.138.60:18890/PLTV/88888910/224/3221225634/index.m3u8  
-#EXTINF:-1 ,CCTV4中文國際  
-http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8  
-#EXTINF:-1 ,CCTV5體育  
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8  
-#EXTINF:-1 ,CCTV5+體育賽事  
-http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8  
-#EXTINF:-1 ,CCTV6電影  
-http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8  
-#EXTINF:-1 ,CCTV7國防軍事  
-http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8  
-#EXTINF:-1 ,CCTV8電視劇  
-http://39.135.138.60:18890/PLTV/88888910/224/3221225631/index.m3u8  
-#EXTINF:-1 ,CCTV9紀錄  
-http://39.135.138.60:18890/PLTV/88888910/224/3221225626/index.m3u8  
-#EXTINF:-1 ,CCTV10科教  
-http://39.135.138.58:18890/PLTV/88888910/224/3221225627/index.m3u8  
-#EXTINF:-1 ,CCTV11戲曲  
-http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u8  
-#EXTINF:-1 ,CCTV12社會與法  
-http://39.135.138.60:18890/PLTV/88888910/224/3221225629/index.m3u8  
-#EXTINF:-1 ,CCTV13新聞  
-http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8  
-#EXTINF:-1 ,CCTV14少兒  
-http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8  
-#EXTINF:-1 ,CCTV15音樂  
-http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8  
-#EXTINF:-1 ,CCTV17農業農村  
-http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8  
-#EXTINF:-1 ,CCTV-3蓝光1  
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8  
-#EXTINF:-1 ,CCTV-3蓝光2  
-http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8  
-#EXTINF:-1 ,CCTV-5+蓝光3  
-http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8  
-#EXTINF:-1 ,CCTV-6蓝光1  
-http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8  
-#EXTINF:-1 ,CCTV-6蓝光2  
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8  
-#EXTINF:-1 ,CCTV-8蓝光1  
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8  
-#EXTINF:-1 ,广东珠江4K  
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1  
-#EXTINF:-1 ,纯享4K  
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8  
-#EXTINF:-1 ,爱上4K  
-http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8  
-#EXTINF:-1 ,CCTV2 HD  
-http://117.169.120.160:8080/live/cctv-2/1.m3u8  
-#EXTINF:-1 ,CCTV-4高清@1  
-http://117.169.120.140:8080/live/cctv-4/.m3u8  
-#EXTINF:-1 ,CCTV-4高清@IVI  
-http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8  
-#EXTINF:-1 ,CCTV-11高清  
-http://117.169.120.140:8080/live/cctv-11/.m3u8  
-#EXTINF:-1 ,CCTV-13高清@1  
-http://117.169.120.140:8080/live/cctv-13/.m3u8  
-#EXTINF:-1 ,CCTV-15高清  
-http://117.169.120.140:8080/live/cctv-15/.m3u8  
+#EXTM3U
+#EXTINF:-1 ,CCTV-1综合
+rtmp://58.200.131.2:1935/livetv/cctv1
+#EXTINF:-1 ,CCTV-2财*
+rtmp://58.200.131.2:1935/livetv/cctv2
+#EXTINF:-1 ,CCTV-3综艺
+rtmp://58.200.131.2:1935/livetv/cctv3
+#EXTINF:-1 ,CCTV-4中文国际
+rtmp://58.200.131.2:1935/livetv/cctv4
+#EXTINF:-1 ,CCTV-5体育
+rtmp://58.200.131.2:1935/livetv/cctv5
+#EXTINF:-1 ,CCTV-6电影
+rtmp://58.200.131.2:1935/livetv/cctv6
+#EXTINF:-1 ,CCTV-7军事农业
+rtmp://58.200.131.2:1935/livetv/cctv7
+#EXTINF:-1 ,CCTV-8电视剧
+rtmp://58.200.131.2:1935/livetv/cctv8
+#EXTINF:-1 ,CCTV-9记录
+rtmp://58.200.131.2:1935/livetv/cctv9
+#EXTINF:-1 ,CCTV-10科教
+rtmp://58.200.131.2:1935/livetv/cctv10
+#EXTINF:-1 ,CCTV-11戏曲
+rtmp://58.200.131.2:1935/livetv/cctv11
+#EXTINF:-1 ,CCTV-12社会与法
+rtmp://58.200.131.2:1935/livetv/cctv12
+#EXTINF:-1 ,CCTV-13新闻
+rtmp://58.200.131.2:1935/livetv/cctv13
+#EXTINF:-1 ,CCTV-14少儿
+rtmp://58.200.131.2:1935/livetv/cctv14
+#EXTINF:-1 ,CCTV-15音乐
+rtmp://58.200.131.2:1935/livetv/cctv15
