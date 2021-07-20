@@ -1,183 +1,65 @@
 #EXTM3U  
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=966000, RESOLUTION=1280x720, AUDIO="audio"  
-#EXT-X-TARGETDURATION:11  
-#EXT-X-MEDIA-SEQUENCE:0  
-#EXT-X-VERSION:3  
-#EXT-X-KEY:METHOD=AES-128,URI="/center/player/play/get-key?lesson_id=3520_294152&id=551345&type=wejoboutcourse&lesson_type=course&isPreview=0",IV=0x0123456789abcdef0123456789abcdef  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_0.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_1.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_2.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_3.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_4.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_5.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_6.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_7.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_8.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_9.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_10.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_11.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_12.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_13.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_14.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_15.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_16.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_17.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_18.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_19.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_20.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_21.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_22.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_23.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_24.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_25.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_26.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_27.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_28.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_29.ts  
-#EXTINF:9.680  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_30.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_31.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_32.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_33.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_34.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_35.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_36.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_37.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_38.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_39.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_40.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_41.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_42.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_43.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_44.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_45.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_46.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_47.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_48.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_49.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_50.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_51.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_52.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_53.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_54.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_55.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_56.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_57.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_58.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_59.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_60.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_61.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_62.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_63.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_64.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_65.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_66.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_67.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_68.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_69.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_70.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_71.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_72.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_73.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_74.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_75.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_76.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_77.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_78.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_79.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_80.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_81.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_82.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_83.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_84.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_85.ts  
-#EXTINF:10.000  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_86.ts  
-#EXTINF:1.200  
-https://v22.51cto.com/2020/03/27/551345/05cd/high/loco_video_966000_87.ts  
-#EXT-X-ENDLIST  
+#EXTINF:-1 ,CCTV1綜合  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8  
+#EXTINF:-1 ,CCTV2財經  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8  
+#EXTINF:-1 ,CCTV3綜藝  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225634/index.m3u8  
+#EXTINF:-1 ,CCTV4中文國際  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8  
+#EXTINF:-1 ,CCTV5體育  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8  
+#EXTINF:-1 ,CCTV5+體育賽事  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8  
+#EXTINF:-1 ,CCTV6電影  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8  
+#EXTINF:-1 ,CCTV7國防軍事  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8  
+#EXTINF:-1 ,CCTV8電視劇  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225631/index.m3u8  
+#EXTINF:-1 ,CCTV9紀錄  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225626/index.m3u8  
+#EXTINF:-1 ,CCTV10科教  
+http://39.135.138.58:18890/PLTV/88888910/224/3221225627/index.m3u8  
+#EXTINF:-1 ,CCTV11戲曲  
+http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u8  
+#EXTINF:-1 ,CCTV12社會與法  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225629/index.m3u8  
+#EXTINF:-1 ,CCTV13新聞  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8  
+#EXTINF:-1 ,CCTV14少兒  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8  
+#EXTINF:-1 ,CCTV15音樂  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8  
+#EXTINF:-1 ,CCTV17農業農村  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8  
+#EXTINF:-1 ,CCTV-3蓝光1  
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8  
+#EXTINF:-1 ,CCTV-3蓝光2  
+http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8  
+#EXTINF:-1 ,CCTV-5+蓝光3  
+http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8  
+#EXTINF:-1 ,CCTV-6蓝光1  
+http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8  
+#EXTINF:-1 ,CCTV-6蓝光2  
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8  
+#EXTINF:-1 ,CCTV-8蓝光1  
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8  
+#EXTINF:-1 ,广东珠江4K  
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1  
+#EXTINF:-1 ,纯享4K  
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8  
+#EXTINF:-1 ,爱上4K  
+http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8  
+#EXTINF:-1 ,CCTV2 HD  
+http://117.169.120.160:8080/live/cctv-2/1.m3u8  
+#EXTINF:-1 ,CCTV-4高清@1  
+http://117.169.120.140:8080/live/cctv-4/.m3u8  
+#EXTINF:-1 ,CCTV-4高清@IVI  
+http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8  
+#EXTINF:-1 ,CCTV-11高清  
+http://117.169.120.140:8080/live/cctv-11/.m3u8  
+#EXTINF:-1 ,CCTV-13高清@1  
+http://117.169.120.140:8080/live/cctv-13/.m3u8  
+#EXTINF:-1 ,CCTV-15高清  
+http://117.169.120.140:8080/live/cctv-15/.m3u8  
