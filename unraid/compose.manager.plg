@@ -1,0 +1,73 @@
+<?xml version='1.0' standalone='yes'?>
+<!DOCTYPE PLUGIN [
+<!ENTITY name        "compose.manager">
+<!ENTITY author      "dcflachs">
+<!ENTITY version     "2021.12.03">
+<!ENTITY launch      "Settings/&name;">
+<!ENTITY packageVER  "&version;">
+<!ENTITY packageMD5  "9612e93b184d4b48119f6a9838e46e29">
+<!ENTITY packageName "&name;-package-&packageVER;">
+<!ENTITY packagefile "&packageName;.txz">
+<!ENTITY github      "dcflachs/compose_plugin">
+<!ENTITY pluginURL   "https://github.terachigu.workers.dev/&github;/main/&name;.plg">
+<!ENTITY packageURL  "https://github.com/&github;/releases/download/&version;/&packagefile;">
+<!ENTITY pluginLOC   "/boot/config/plugins/&name;">
+<!ENTITY emhttpLOC   "/usr/local/emhttp/plugins/&name;">
+]>
+
+<PLUGIN  name="&name;"
+         author="&author;"
+         version="&version;"
+         launch="&launch;"
+         pluginURL="&pluginURL;"
+         icon="cubes"
+         min="6.9.0"
+>
+
+<CHANGES>
+###2021.12.03
+- Add basic web ui
+- Docker Compose v2.1.1 
+- Compose Switch v1.0.3
+###2021.10.03
+- Initial Release 
+- Docker Compose v2.0.1 
+- Compose Switch v1.0.2
+</CHANGES>
+
+<!-- The 'pre-install' script. -->
+<FILE Run="/bin/bash">
+<INLINE>
+# Remove old 'source' files
+rm -f $(ls &pluginLOC;/&name;*.txz 2>/dev/null|grep -v '&packageVER;')
+
+mkdir -p &pluginLOC;/projects
+</INLINE>
+</FILE>
+
+<FILE Name="&pluginLOC;/&packagefile;" Run="upgradepkg --install-new">
+<URL>&packageURL;</URL>
+<MD5>&packageMD5;</MD5>
+</FILE> 
+
+<FILE Run="/bin/bash">
+<INLINE>
+echo ""
+echo "----------------------------------------------------"
+echo " &name; has been installed."
+echo " Version: &version;"
+echo "----------------------------------------------------"
+echo ""
+</INLINE>
+</FILE>
+
+<FILE Run="/bin/bash" Method="remove">
+<INLINE>
+removepkg &packageName;
+
+# Remove plugin related files
+rm -f $(ls &pluginLOC;/&name;*.txz 2>/dev/null|grep -v '&packageVER;')
+</INLINE>
+</FILE> 
+
+</PLUGIN>
