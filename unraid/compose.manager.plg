@@ -10,7 +10,7 @@
 <!ENTITY packagefile "&packageName;.txz">
 <!ENTITY github      "dcflachs/compose_plugin">
 <!ENTITY pluginURL   "https://github.terachigu.workers.dev/&github;/main/&name;.plg">
-<!ENTITY packageURL  "https://github.com/&github;/releases/download/&version;/&packagefile;">
+<!ENTITY packageURL  "https://githubcdn.terachigu.workers.dev/&github;/releases/download/&version;/&packagefile;">
 <!ENTITY pluginLOC   "/boot/config/plugins/&name;">
 <!ENTITY emhttpLOC   "/usr/local/emhttp/plugins/&name;">
 ]>
